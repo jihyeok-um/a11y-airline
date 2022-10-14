@@ -53,6 +53,94 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "./src/images/carousel/BCN-list-pc.jpeg":
+/*!**********************************************!*\
+  !*** ./src/images/carousel/BCN-list-pc.jpeg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"1364b638673a2d358a974c1c70334e21.jpeg\");\n\n//# sourceURL=webpack://a11y-airline/./src/images/carousel/BCN-list-pc.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/carousel/CNX-list-pc.jpeg":
+/*!**********************************************!*\
+  !*** ./src/images/carousel/CNX-list-pc.jpeg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a1fbb3caae9fb90aa316c1e75357a8de.jpeg\");\n\n//# sourceURL=webpack://a11y-airline/./src/images/carousel/CNX-list-pc.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/carousel/DXB-list-pc.jpeg":
+/*!**********************************************!*\
+  !*** ./src/images/carousel/DXB-list-pc.jpeg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"c8f29c878a50a7c34954df514d4fe634.jpeg\");\n\n//# sourceURL=webpack://a11y-airline/./src/images/carousel/DXB-list-pc.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/carousel/FCO-list-pc.jpeg":
+/*!**********************************************!*\
+  !*** ./src/images/carousel/FCO-list-pc.jpeg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"de2128a1ea2bdf7a411187d5aebea71d.jpeg\");\n\n//# sourceURL=webpack://a11y-airline/./src/images/carousel/FCO-list-pc.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/carousel/FUK-list-pc.jpeg":
+/*!**********************************************!*\
+  !*** ./src/images/carousel/FUK-list-pc.jpeg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"eb527deba7367905fb6a703017e903c1.jpeg\");\n\n//# sourceURL=webpack://a11y-airline/./src/images/carousel/FUK-list-pc.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/carousel/HAN-list-pc.jpeg":
+/*!**********************************************!*\
+  !*** ./src/images/carousel/HAN-list-pc.jpeg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"97ee92d898c8b82e67d10a9b11bab088.jpeg\");\n\n//# sourceURL=webpack://a11y-airline/./src/images/carousel/HAN-list-pc.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/carousel/HKT-list-pc.jpeg":
+/*!**********************************************!*\
+  !*** ./src/images/carousel/HKT-list-pc.jpeg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"8387ed1476129c1498aca001ca53cfa1.jpeg\");\n\n//# sourceURL=webpack://a11y-airline/./src/images/carousel/HKT-list-pc.jpeg?");
+
+/***/ }),
+
+/***/ "./src/images/carousel/HNL-list-pc.jpeg":
+/*!**********************************************!*\
+  !*** ./src/images/carousel/HNL-list-pc.jpeg ***!
+  \**********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"d0d14931afbd7764058e5528d5674241.jpeg\");\n\n//# sourceURL=webpack://a11y-airline/./src/images/carousel/HNL-list-pc.jpeg?");
+
+/***/ }),
+
 /***/ "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js":
 /*!**********************************************************************************!*\
   !*** ./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
@@ -213,40 +301,29 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var _pages_PassengerEnter__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./pages/PassengerEnter */ \"./src/pages/PassengerEnter.tsx\");\n\n\nconst App = () => {\n    return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_pages_PassengerEnter__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {});\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (App);\n\n\n//# sourceURL=webpack://a11y-airline/./src/App.tsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var _pages_TripCarousel__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./pages/TripCarousel */ \"./src/pages/TripCarousel.tsx\");\n\n\nconst App = () => {\n    return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_pages_TripCarousel__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {});\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (App);\n\n\n//# sourceURL=webpack://a11y-airline/./src/App.tsx?");
 
 /***/ }),
 
-/***/ "./src/components/SpinButton.tsx":
-/*!***************************************!*\
-  !*** ./src/components/SpinButton.tsx ***!
-  \***************************************/
+/***/ "./src/components/Carousel.tsx":
+/*!*************************************!*\
+  !*** ./src/components/Carousel.tsx ***!
+  \*************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ \"./node_modules/styled-components/dist/styled-components.browser.esm.js\");\n/* harmony import */ var _constants_index__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../constants/index */ \"./src/constants/index.ts\");\n/* harmony import */ var _hooks_usePassenger__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../hooks/usePassenger */ \"./src/hooks/usePassenger.ts\");\n/* harmony import */ var _circleButton__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./circleButton */ \"./src/components/circleButton.tsx\");\n\n\n\n\n\nconst SpinButton = () => {\n    const { passengerNum, announceState, handleChangePassengerNumInput, handleClickDecreaseButton, handleClickIncreaseButton, } = (0,_hooks_usePassenger__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(S.Container, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_circleButton__WEBPACK_IMPORTED_MODULE_3__[\"default\"], { disabled: passengerNum <= _constants_index__WEBPACK_IMPORTED_MODULE_1__[\"default\"].MIN, onClick: handleClickDecreaseButton, value: '-', ariaLabel: `성인 탑승자 한명 줄이기 버튼` }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.PassengerNum, { value: passengerNum, min: _constants_index__WEBPACK_IMPORTED_MODULE_1__[\"default\"].MIN, max: _constants_index__WEBPACK_IMPORTED_MODULE_1__[\"default\"].MAX, onChange: handleChangePassengerNumInput, \"aria-label\": `성인 ${passengerNum} 텍스트 숫자만 수정` }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_circleButton__WEBPACK_IMPORTED_MODULE_3__[\"default\"], { disabled: passengerNum >= _constants_index__WEBPACK_IMPORTED_MODULE_1__[\"default\"].MAX, onClick: handleClickIncreaseButton, value: '+', ariaLabel: `성인 탑승자 한명 늘리기 버튼` }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Announce, Object.assign({ role: 'status' }, { children: announceState }))] }));\n};\nconst S = {\n    Container: styled_components__WEBPACK_IMPORTED_MODULE_4__[\"default\"].div `\n    display: flex;\n    align-items: center;\n  `,\n    PassengerNum: styled_components__WEBPACK_IMPORTED_MODULE_4__[\"default\"].input `\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 3rem;\n    height: 3rem;\n    margin: 0 1rem;\n    border: none;\n    border-bottom: 2px solid black;\n    text-align: center;\n    font-size: 1.5rem;\n    font-weight: 600;\n  `,\n    Announce: styled_components__WEBPACK_IMPORTED_MODULE_4__[\"default\"].p `\n    transform: scale(0);\n  `,\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (SpinButton);\n\n\n//# sourceURL=webpack://a11y-airline/./src/components/SpinButton.tsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ \"./node_modules/styled-components/dist/styled-components.browser.esm.js\");\n/* harmony import */ var _CarouselContent__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./CarouselContent */ \"./src/components/CarouselContent.tsx\");\n\n\n\n\nconst Carousel = ({ CarouselContents }) => {\n    const carouselRef = (0,react__WEBPACK_IMPORTED_MODULE_1__.useRef)(null);\n    const [scrollStart, setScrollStart] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(false);\n    const [scrollEnd, setScrollEnd] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(false);\n    const handleClickLeftScrollButton = () => {\n        var _a, _b;\n        (_a = carouselRef.current) === null || _a === void 0 ? void 0 : _a.scrollBy(-263, 0);\n        setScrollEnd(false);\n        if (((_b = carouselRef.current) === null || _b === void 0 ? void 0 : _b.scrollLeft) === 0)\n            setScrollStart(true);\n    };\n    const handleClickRightScrollButton = () => {\n        var _a, _b, _c;\n        const before = (_a = carouselRef.current) === null || _a === void 0 ? void 0 : _a.scrollLeft;\n        (_b = carouselRef.current) === null || _b === void 0 ? void 0 : _b.scrollBy(263, 0);\n        setScrollStart(false);\n        const after = (_c = carouselRef.current) === null || _c === void 0 ? void 0 : _c.scrollLeft;\n        if (before === after)\n            setScrollEnd(true);\n    };\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(S.Container, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.LeftScrollButton, Object.assign({ \"aria-label\": '이전', disabled: scrollStart, onClick: handleClickLeftScrollButton }, { children: '<' })), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.UlContainer, Object.assign({ ref: carouselRef }, { children: CarouselContents.map((content) => {\n                    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_CarouselContent__WEBPACK_IMPORTED_MODULE_2__[\"default\"], { imageUrl: content.imageUrl, imageAlt: content.imageAlt, arrivals: content.arrivals, price: content.price, link: content.link }, content.imageUrl));\n                }) })), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.RightScrollButton, Object.assign({ \"aria-label\": '다음', disabled: scrollEnd, onClick: handleClickRightScrollButton }, { children: '>' }))] }));\n};\nconst S = {\n    Container: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].section `\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    flex-wrap: wrap;\n    overflow-x: auto;\n    position: relative;\n    width: 100%;\n    height: 297px;\n    padding: 0;\n    list-style: none;\n    ::-webkit-scrollbar {\n      display: none;\n    }\n  `,\n    UlContainer: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].ul `\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    flex-wrap: wrap;\n    overflow-x: auto;\n    position: relative;\n    width: 100%;\n    height: 297px;\n    gap: 32px;\n    padding: 0;\n    list-style: none;\n    ::-webkit-scrollbar {\n      display: none;\n    }\n  `,\n    LeftScrollButton: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].button `\n    position: fixed;\n    z-index: 10;\n    left: 0;\n    width: 35px;\n    height: 70px;\n    background-color: black;\n    opacity: 70%;\n    border: none;\n    border-radius: 0 35px 35px 0;\n    color: white;\n    font-size: 20px;\n    font-weight: 700;\n    cursor: pointer;\n  `,\n    RightScrollButton: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].button `\n    position: fixed;\n    z-index: 10;\n    right: 0;\n    width: 35px;\n    height: 70px;\n    background-color: black;\n    opacity: 70%;\n    border: none;\n    border-radius: 35px 0 0 35px;\n    color: white;\n    font-size: 20px;\n    font-weight: 700;\n    cursor: pointer;\n  `,\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Carousel);\n\n\n//# sourceURL=webpack://a11y-airline/./src/components/Carousel.tsx?");
 
 /***/ }),
 
-/***/ "./src/components/Tooltip.tsx":
-/*!************************************!*\
-  !*** ./src/components/Tooltip.tsx ***!
-  \************************************/
+/***/ "./src/components/CarouselContent.tsx":
+/*!********************************************!*\
+  !*** ./src/components/CarouselContent.tsx ***!
+  \********************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! styled-components */ \"./node_modules/styled-components/dist/styled-components.browser.esm.js\");\n\n\nconst Tooltip = ({ onClick, ariaLabel }) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Button, Object.assign({ onClick: onClick, \"aria-label\": ariaLabel }, { children: \"?\" })));\n};\nconst S = {\n    Button: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].button `\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 1.5rem;\n    height: 1.5rem;\n    background-color: white;\n    border: 3px solid gray;\n    border-radius: 50%;\n    color: gray;\n    font-size: 1rem;\n    font-weight: 600;\n  `,\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Tooltip);\n\n\n//# sourceURL=webpack://a11y-airline/./src/components/Tooltip.tsx?");
-
-/***/ }),
-
-/***/ "./src/components/circleButton.tsx":
-/*!*****************************************!*\
-  !*** ./src/components/circleButton.tsx ***!
-  \*****************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! styled-components */ \"./node_modules/styled-components/dist/styled-components.browser.esm.js\");\n\n\nconst CircleButton = ({ value, ariaLabel, disabled, onClick }) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Button, Object.assign({ \"aria-label\": ariaLabel, disabled: disabled, onClick: onClick }, { children: value })));\n};\nconst S = {\n    Button: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].button `\n    width: 2rem;\n    height: 2rem;\n    background-color: white;\n    border: 1px solid lightgray;\n    border-radius: 50%;\n    font-size: 1.5rem;\n    :active {\n    }\n  `,\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (CircleButton);\n\n\n//# sourceURL=webpack://a11y-airline/./src/components/circleButton.tsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! styled-components */ \"./node_modules/styled-components/dist/styled-components.browser.esm.js\");\n\n\nconst CarouselContent = ({ imageUrl, imageAlt, arrivals, price, link }) => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Container, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(S.Link, Object.assign({ href: link }, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Thumbnail, { children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Image, { src: imageUrl, alt: imageAlt }) }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(S.Description, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(S.Location, { children: [\"\\uC11C\\uC6B8/\\uC778\\uCC9C - \", arrivals] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Seat, { children: \"\\uC77C\\uBC18\\uC11D \\uC655\\uBCF5\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(S.Price, { children: [\"KRW \", price, \" ~\"] })] })] })) }));\n};\nconst S = {\n    Container: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].li `\n    position: relative;\n    width: 230px;\n    height: 295px;\n  `,\n    Link: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].a `\n    position: relative;\n    width: 230px;\n    height: 295px;\n  `,\n    Thumbnail: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].a `\n    position: absolute;\n    border: none;\n    background-color: white;\n    cursor: pointer;\n  `,\n    Image: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].img `\n    width: 230px;\n    height: 295px;\n    vertical-align: top;\n  `,\n    Description: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].div `\n    position: absolute;\n    box-sizing: border-box;\n    width: 230px;\n    height: 295px;\n    padding: 16px;\n    color: black;\n  `,\n    Location: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].h2 `\n    width: 100%;\n    font-size: 20px;\n  `,\n    Seat: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].p `\n    width: 100%;\n    font-weight: 600;\n    font-size: 16px;\n  `,\n    Price: styled_components__WEBPACK_IMPORTED_MODULE_1__[\"default\"].p `\n    width: 100%;\n    color: #11277b;\n    font-weight: 600;\n    font-size: 20px;\n  `,\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (CarouselContent);\n\n\n//# sourceURL=webpack://a11y-airline/./src/components/CarouselContent.tsx?");
 
 /***/ }),
 
@@ -257,18 +334,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst PASSENGER = {\n    DEFAULT: 1,\n    MIN: 0,\n    MAX: 3,\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (PASSENGER);\n\n\n//# sourceURL=webpack://a11y-airline/./src/constants/index.ts?");
-
-/***/ }),
-
-/***/ "./src/hooks/usePassenger.ts":
-/*!***********************************!*\
-  !*** ./src/hooks/usePassenger.ts ***!
-  \***********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _constants_index__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../constants/index */ \"./src/constants/index.ts\");\n\n\nconst usePassenger = () => {\n    const [passengerNum, setPassengerNum] = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)(_constants_index__WEBPACK_IMPORTED_MODULE_1__[\"default\"].DEFAULT);\n    const [announceState, setAnnounceState] = (0,react__WEBPACK_IMPORTED_MODULE_0__.useState)('');\n    const handleClickDecreaseButton = () => {\n        setPassengerNum(passengerNum - 1);\n        setAnnounceState(`성인 승객 감소 ${passengerNum - 1}`);\n    };\n    const handleClickIncreaseButton = () => {\n        setPassengerNum(passengerNum + 1);\n        setAnnounceState(`성인 승객 추가 ${passengerNum + 1}`);\n    };\n    const handleChangePassengerNumInput = (e) => {\n        const value = Number(e.target.value);\n        if (value >= _constants_index__WEBPACK_IMPORTED_MODULE_1__[\"default\"].MIN && value <= _constants_index__WEBPACK_IMPORTED_MODULE_1__[\"default\"].MAX) {\n            setPassengerNum(value);\n            setAnnounceState(`성인 승객 ${value}`);\n        }\n    };\n    return {\n        passengerNum,\n        announceState,\n        handleChangePassengerNumInput,\n        handleClickDecreaseButton,\n        handleClickIncreaseButton,\n    };\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (usePassenger);\n\n\n//# sourceURL=webpack://a11y-airline/./src/hooks/usePassenger.ts?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"CAROUSEL_CONTENTS\": () => (/* binding */ CAROUSEL_CONTENTS),\n/* harmony export */   \"PASSENGER\": () => (/* binding */ PASSENGER)\n/* harmony export */ });\n/* harmony import */ var _images_carousel_BCN_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../images/carousel/BCN-list-pc.jpeg */ \"./src/images/carousel/BCN-list-pc.jpeg\");\n/* harmony import */ var _images_carousel_CNX_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../images/carousel/CNX-list-pc.jpeg */ \"./src/images/carousel/CNX-list-pc.jpeg\");\n/* harmony import */ var _images_carousel_DXB_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../images/carousel/DXB-list-pc.jpeg */ \"./src/images/carousel/DXB-list-pc.jpeg\");\n/* harmony import */ var _images_carousel_FCO_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../images/carousel/FCO-list-pc.jpeg */ \"./src/images/carousel/FCO-list-pc.jpeg\");\n/* harmony import */ var _images_carousel_FUK_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../images/carousel/FUK-list-pc.jpeg */ \"./src/images/carousel/FUK-list-pc.jpeg\");\n/* harmony import */ var _images_carousel_HAN_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../images/carousel/HAN-list-pc.jpeg */ \"./src/images/carousel/HAN-list-pc.jpeg\");\n/* harmony import */ var _images_carousel_HKT_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../images/carousel/HKT-list-pc.jpeg */ \"./src/images/carousel/HKT-list-pc.jpeg\");\n/* harmony import */ var _images_carousel_HNL_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../images/carousel/HNL-list-pc.jpeg */ \"./src/images/carousel/HNL-list-pc.jpeg\");\n\n\n\n\n\n\n\n\nconst PASSENGER = {\n    DEFAULT: 1,\n    MIN: 0,\n    MAX: 3,\n};\nconst CAROUSEL_CONTENTS = [\n    {\n        imageUrl: _images_carousel_BCN_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_0__[\"default\"],\n        imageAlt: '바르셀로나 이미지',\n        arrivals: '바르셀로나',\n        price: '1,546,400',\n        link: 'https://www.koreanair.com/booking/best-prices?departureCode=ICN&destinationCode=BCN&cabin=Y&tripType=RT&duration=7',\n    },\n    {\n        imageUrl: _images_carousel_CNX_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n        imageAlt: '치앙마이 이미지',\n        arrivals: '치망마이',\n        price: '839,000',\n        link: 'https://www.koreanair.com/booking/best-prices?departureCode=ICN&destinationCode=CNX&cabin=Y&tripType=RT&duration=7',\n    },\n    {\n        imageUrl: _images_carousel_DXB_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_2__[\"default\"],\n        imageAlt: '두바이 이미지',\n        arrivals: '두바이',\n        price: '1,158,200',\n        link: 'https://www.koreanair.com/booking/best-prices?departureCode=ICN&destinationCode=DXB&duration=7&cabin=Y',\n    },\n    {\n        imageUrl: _images_carousel_FCO_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_3__[\"default\"],\n        imageAlt: '콜로세움 이미지',\n        arrivals: '로마/레오나르도 다빈치',\n        price: '1,454,400',\n        link: 'https://www.koreanair.com/booking/best-prices?departureCode=ICN&destinationCode=FCO&cabin=Y&tripType=RT&duration=7',\n    },\n    {\n        imageUrl: _images_carousel_FUK_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_4__[\"default\"],\n        imageAlt: '후쿠오카 이미지',\n        arrivals: '후쿠오카',\n        price: '346,400',\n        link: 'https://www.koreanair.com/booking/best-prices?departureCode=ICN&destinationCode=FUK&cabin=Y&tripType=RT&duration=7',\n    },\n    {\n        imageUrl: _images_carousel_HAN_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_5__[\"default\"],\n        imageAlt: '하노이 이미지',\n        arrivals: '하노이',\n        price: '527,600',\n        link: 'https://www.koreanair.com/booking/best-prices?departureCode=ICN&destinationCode=HNL&cabin=Y&tripType=RT&duration=7',\n    },\n    {\n        imageUrl: _images_carousel_HKT_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_6__[\"default\"],\n        imageAlt: '푸켓 이미지',\n        arrivals: '푸켓',\n        price: '713,000',\n        link: 'https://www.koreanair.com/booking/best-prices?departureCode=ICN&destinationCode=HKT&cabin=Y&tripType=RT&duration=7',\n    },\n    {\n        imageUrl: _images_carousel_HNL_list_pc_jpeg__WEBPACK_IMPORTED_MODULE_7__[\"default\"],\n        imageAlt: '호놀룰루 이미지',\n        arrivals: '호놀룰루',\n        price: '1,245,600',\n        link: 'https://www.koreanair.com/booking/best-prices?departureCode=ICN&destinationCode=HNL&cabin=Y&tripType=RT&duration=7',\n    },\n];\n\n\n//# sourceURL=webpack://a11y-airline/./src/constants/index.ts?");
 
 /***/ }),
 
@@ -283,14 +349,14 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 
 /***/ }),
 
-/***/ "./src/pages/PassengerEnter.tsx":
-/*!**************************************!*\
-  !*** ./src/pages/PassengerEnter.tsx ***!
-  \**************************************/
+/***/ "./src/pages/TripCarousel.tsx":
+/*!************************************!*\
+  !*** ./src/pages/TripCarousel.tsx ***!
+  \************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ \"./node_modules/styled-components/dist/styled-components.browser.esm.js\");\n/* harmony import */ var _components_SpinButton__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/SpinButton */ \"./src/components/SpinButton.tsx\");\n/* harmony import */ var _components_Tooltip__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Tooltip */ \"./src/components/Tooltip.tsx\");\n\n\n\n\nconst PassengerEnter = () => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"main\", { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Title, { children: \"\\uC2B9\\uAC1D \\uC120\\uD0DD\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(S.PassengerType, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.SubTitle, { children: \"\\uC131\\uC778\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components_Tooltip__WEBPACK_IMPORTED_MODULE_2__[\"default\"], { ariaLabel: '탑승자 유형 툴팁: 성인' })] }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components_SpinButton__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {})] }));\n};\nconst S = {\n    Title: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].h1 `\n    margin-bottom: 1.5rem;\n  `,\n    SubTitle: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].h2 `\n    margin-right: 0.5rem;\n  `,\n    PassengerType: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].div `\n    display: flex;\n    align-items: center;\n  `,\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (PassengerEnter);\n\n\n//# sourceURL=webpack://a11y-airline/./src/pages/PassengerEnter.tsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\n/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ \"./node_modules/styled-components/dist/styled-components.browser.esm.js\");\n/* harmony import */ var _components_Carousel__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Carousel */ \"./src/components/Carousel.tsx\");\n/* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../constants */ \"./src/constants/index.ts\");\n\n\n\n\nconst TripCarousel = () => {\n    return ((0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(S.Main, { children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(S.Title, { children: \"\\uC9C0\\uAE08 \\uB5A0\\uB098\\uAE30 \\uC88B\\uC740 \\uC5EC\\uD589\" }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_components_Carousel__WEBPACK_IMPORTED_MODULE_1__[\"default\"], { CarouselContents: _constants__WEBPACK_IMPORTED_MODULE_2__.CAROUSEL_CONTENTS })] }));\n};\nconst S = {\n    Main: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].main `\n    display: flex;\n    flex-direction: column;\n    margin: 0 16px;\n  `,\n    Title: styled_components__WEBPACK_IMPORTED_MODULE_3__[\"default\"].h1 `\n    margin-bottom: 1.5rem;\n  `,\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (TripCarousel);\n\n\n//# sourceURL=webpack://a11y-airline/./src/pages/TripCarousel.tsx?");
 
 /***/ })
 
@@ -348,6 +414,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 		};
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -371,6 +449,26 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 			if (!module.children) module.children = [];
 /******/ 			return module;
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */
